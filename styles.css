@@ -13,7 +13,7 @@ body {
 .menu {
   display: flex;
   justify-content: space-between;
-  padding: 18px;
+  padding: 20px;
   width: 100%;
   background-color: white;
 }
